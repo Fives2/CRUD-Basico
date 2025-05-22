@@ -17,7 +17,7 @@
 </head>
 <body>
 
-    hello word
+    hello world
     
 </body>
 </html>
