@@ -1,10 +1,10 @@
 <?php
 
-    $sHost = '127.0.0.1';
-    $sPort = '5432';
-    $sDbName = 'crud';
-    $sUser = 'postgres';
-    $sPassword = '1234';
+    $sHost = '';
+    $sPort = '';
+    $sDbName = '';
+    $sUser = '';
+    $sPassword = '';
 
     $sConexao = "
         host=$sHost
